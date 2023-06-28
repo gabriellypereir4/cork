@@ -1,0 +1,42 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px;
+}
+
+#logo{
+    font-family: 'Baloo 2', cursive;
+    font-size: 36px;
+    color: #434444;
+    padding-left: 50px;
+}
+
+#itens{
+    display: flex;
+    gap: 50px;
+    text-transform: uppercase;
+    list-style-type: none;
+    font-weight: 500;
+}
+
+#botao{
+    padding-right: 15px;
+    padding-left: 15px;
+    background: #0053FF;
+    color:#FFFFFF;
+    border-radius: 100px;
+    border: none;
+    font-family: 'Advent Pro', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+}
+
+#textos{
+    padding-left: 50px;
+}
+
+#slogan{
+    font-size: 40px;
+    text-transform: uppercase;
+}

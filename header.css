@@ -32,6 +32,12 @@
     letter-spacing: 1.5px;
 }
 
+#conteudo{
+    display: flex;
+    padding-top: 50px;
+    justify-content: space-between;
+}
+
 #textos{
     padding-left: 50px;
 }
@@ -39,4 +45,16 @@
 #slogan{
     font-size: 40px;
     text-transform: uppercase;
+}
+
+#texto{
+    font-size: 25px;
+}
+
+#cart{
+    width: 450px;
+    height: 350px;
+    float: right;
+    padding-right: 200px;
+    
 }

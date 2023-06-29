@@ -1,0 +1,26 @@
+.parceria{
+    color: #434444;
+    font-weight: 400;
+    padding-top: 80px;
+}
+
+#logos{
+    width: 350px;
+    padding-left: 550px;
+}
+
+#teste{
+    position: absolute;
+}
+
+#cork{
+    color: #ffffff;
+    font-family: 'Baloo 2', cursive;
+    font-size: 36px;
+    padding-top: 100px;
+}
+
+#test{
+    display: flex;
+    flex-direction: column;
+}
